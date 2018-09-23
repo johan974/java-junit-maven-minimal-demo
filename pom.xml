@@ -8,12 +8,12 @@
     <artifactId>java-junit-minimal-demo</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <properties>
-        <!-- Optional URL to server. Default value is http://localhost:9000 -->
-        <sonar.host.url>
-            http://localhost:9000
-        </sonar.host.url>
-    </properties>
+    <!--<properties>-->
+        <!--&lt;!&ndash; Optional URL to server. Default value is http://localhost:9000 &ndash;&gt;-->
+        <!--<sonar.host.url>-->
+            <!--http://10.0.2.15:9000-->
+        <!--</sonar.host.url>-->
+    <!--</properties>-->
 
     <dependencies>
         <dependency>
